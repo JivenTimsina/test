@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//header file for standard input output functions
 int main()
 {
 	printf("hello world");//prints hello world to the console
