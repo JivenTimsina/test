@@ -1,2 +1,2 @@
 #hello world
-this repo contains C file which prints hello world to the console
+this repo contains a C file that prints Hello World to the console
