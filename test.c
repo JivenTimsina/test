@@ -1,6 +1,6 @@
-#include<stdio.h>//header file for standard input output functions
+#include<stdio.h>
 int main()
 {
-	printf("hello world");//prints hello world to the console
-	return 0;//this line indicates that the program ended successfully
+	printf("hello world");
+	return 0;
 }
